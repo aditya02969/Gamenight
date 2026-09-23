@@ -1,0 +1,31 @@
+{
+  "name": "Game Night",
+  "short_name": "Game Night",
+  "description": "Chess, Ludo, Carrom, Target Rush, Tic-Tac-Toe, Heart Match and three couple games. One device, online, vs a bot, or solo.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0A2353",
+  "theme_color": "#0A2353",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
